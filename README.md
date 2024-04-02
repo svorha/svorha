@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**svorha/svorha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center" style="margin:0;">Social</h3>
+<div align="center" style="width:90%;margin:0 auto 16px;">
+  <a href="https://iwdath.github.io/">
+    <img src="img/iwdath.svg" width="35" height="35" title="Portfolio" alt="Portfolio">
+  </a>
+  <a href="https://iwdath.github.io/telegram">
+    <img src="img/telegram.svg" width="35" height="35" title="Telegram" alt="Telegram">
+  </a>
+  <a href="https://iwdath.github.io/discord">
+    <img src="img/discord.svg" width="35" height="35" title="Discord" alt="Discord">
+  </a>
+</div>
