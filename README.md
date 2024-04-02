@@ -1,4 +1,4 @@
-<h3 align="center" style="margin:0;">Social</h3>
+<h3 align="center">Social</h3>
 <div align="center" style="width:90%;margin:0 auto 16px;">
   <a href="https://iwdath.github.io/">
     <img src="https://github.com/iwdath/iwdath/blob/main/img/discord.svg" width="35" height="35" title="Portfolio" alt="Portfolio">
