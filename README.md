@@ -1,7 +1,7 @@
 ## Mods <kbd>**44**</kbd>
 
-- [**Advanced Solars Classic**](Advanced-Solars-Classic) <kbd>required: [**IC2 Classic**](IC2-Classic)</kbd> `client and server side istallation`
-- [**IC2 Classic**](IC2-Classic) <kbd>required: [**Curios API**](https://www.curseforge.com/minecraft/mc-mods/curios),<br>[**The One Probe**](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)</kbd> `client and server side istallation`
+- [**Advanced Solars Classic**][Advanced-Solars-Classic] <kbd>required: [**IC2 Classic**][IC2-Classic]</kbd> `client and server side istallation`
+- [**IC2 Classic**][IC2-Classic] <kbd>required: [**Curios API**](https://www.curseforge.com/minecraft/mc-mods/curios),<br>[**The One Probe**](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)</kbd> `client and server side istallation`
 - [**The One Probe**](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) <kbd>required: *none*</kbd> `client and server side istallation`
 - [**AE2 Things**](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge) <kbd>required: [**Applied Energistics 2**](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)</kbd> `client and server side istallation`
 - [**Applied Energistics 2**](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) <kbd>required: *none*</kbd> `client and server side istallation`
