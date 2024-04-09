@@ -1,12 +1,8 @@
 # TechnoMagic Modpack for Minecraft Forge 1.19.2
 
-<br>
-
 ## Installation
 
 The mods in this pack are divided into <kbd>**client-side**</kbd> and <kbd>**server-side**</kbd> for easier and faster installation.
-
-<br>
 
 ### Client-side
 
@@ -25,8 +21,6 @@ If you're playing in single-player mode, you only need to install <kbd>**client-
 ```
 
 > You need to move the files from the <kbd>**mods**</kbd> and <kbd>**libs**</kbd> folders to the <kbd>**mods**</kbd> folder of your launcher.
-
-<br>
 
 ### Server-side
 
@@ -47,8 +41,6 @@ If you're playing on your own server, you'll also need to install mods on the se
 > You need to move the files from the <kbd>**mods**</kbd> and <kbd>**libs**</kbd> folders to the <kbd>**mods**</kbd> folder of your server.
 >> _Don't forget to install mods on your computer as indicated in the <kbd>**_Client-side_**</kbd> installation section._
 
-<br>
-
 ## Tables of modifications <kbd>**71**</kbd>
 
 In this section, all mods included in this pack, both <kbd>**client-side**</kbd> and <kbd>**server-side**</kbd>, are presented. The mods are organized into two tables: <kbd>**Mods**</kbd> and <kbd>**Libs**</kbd>. This provides a convenient overview of dependencies and allows for easy removal of unwanted mods and their associated libraries.
@@ -61,8 +53,6 @@ Each table provides the following information:
 - `Mod Installation Side`: Indicates whether the mod is intended for the <kbd>**client-side**</kbd> or <kbd>**server-side**</kbd>.
 
 This structure allows users to tailor the pack to their needs.
-
-<br>
 
 ### Mods <kbd>**55**</kbd>
 
