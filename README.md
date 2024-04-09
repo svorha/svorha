@@ -1,5 +1,7 @@
 # TechnoMagic Modpack for Minecraft Forge 1.19.2
 
+Please note: Some mods may conflict with OptiFine. Therefore, this pack uses Embeddium and Oculus instead. For the pack to work correctly, launch Minecraft on Forge version 1.19.2 without OptiFine.
+
 ## Installation
 
 The mods in this pack are divided into <kbd>**client-side**</kbd> and <kbd>**server-side**</kbd> for easier and faster installation.
